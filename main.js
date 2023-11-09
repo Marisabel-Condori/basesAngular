@@ -1,0 +1,13 @@
+console.log('hola mundo');
+var yes = false;
+console.log('hola mundo', yes);
+var number = 0;
+var number2 = 10.2;
+var number3 = 0;
+console.log('NUMBERS', number, number2, number3);
+var nombre = 'mari';
+console.log('name', nombre);
+var futbolista;
+futbolista = ['mari', 23, false];
+console.log('nombre', futbolista[0]);
+console.log('Edad', futbolista[1]);
